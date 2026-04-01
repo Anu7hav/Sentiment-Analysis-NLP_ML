@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pt
+*.pth
+data/
+plots/
+*.egg-info/
+.DS_Store
+.env
+venv/
